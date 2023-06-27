@@ -1,7 +1,7 @@
 {
     "name": "18-social-network-api",
     "version": "1.0.0",
-    "description": "A social network API built with Node.js, Express, and Mongoose.",
+    "description": "A social network API built with Node.js, Express.",
     "main": "server.js",
     "scripts": {
       "start": "node server.js",
@@ -12,7 +12,7 @@
       "url": "git+https://github.com/TpainMcain/18-Social-Network-API.git"
     },
     "author": "TpainMcain",
-    "license": "ISC",
+    "license": "MIT",
     "dependencies": {
       "express": "^4.17.3",
       "mongoose": "^6.2.9"
