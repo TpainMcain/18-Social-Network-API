@@ -25,8 +25,8 @@ This API powers a social network web application that allows users to interact a
 3. Run ```npm i -y``` to install all dependencies.
 
 ## Usage Instructions
-* 
-
+*   Type ```npm start``` to start the server.
+*   Follow along with the video walkthrough to GET, POST, PUT & DEL from the database using Insomnia.
 ### Video Walkthrough
 
 ## License
