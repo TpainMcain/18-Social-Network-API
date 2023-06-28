@@ -19,7 +19,10 @@ This API powers a social network web application that allows users to interact a
 * Mongoose
 
 ## Installation Instructions
-1.
+1. Clone the repository to your local development environment.
+    * ```git clone https://github.com/TpainMcain/13-ORM-Ecommerce-Back-End.git```
+2. Navigate to the ```13-ORM-Ecommerce-Back-End``` folder using the command prompt.
+3. Run ```npm i -y``` to install all dependencies.
 
 ## Usage Instructions
 * 
