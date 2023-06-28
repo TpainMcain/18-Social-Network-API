@@ -28,7 +28,7 @@ This API powers a social network web application that allows users to interact a
 *   Type ```npm start``` to start the server.
 *   Follow along with the video walkthrough to GET, POST, PUT & DEL from the database using Insomnia.
 ### Video Walkthrough
-[https://github.com/TpainMcain/18-Social-Network-API](https://drive.google.com/file/d/1nVClyjSrLFQuW7sL_P1sG_9hOva0GbH6/view)
+https://drive.google.com/file/d/1nVClyjSrLFQuW7sL_P1sG_9hOva0GbH6/view
 
 ## License
 Permission to use this application is granted under the MIT license.
