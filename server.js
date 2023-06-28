@@ -2,7 +2,7 @@
 const express = require("express");
 
 // Import the database configuration, which sets up a connection to the database
-const db = require("./config/connection");
+const db = require("./config/connections");
 
 // Import the routes for the server, which define how it responds to HTTP requests
 const routes = require("./routes");
