@@ -10,6 +10,7 @@
   - [Contact Me](#contact-me)
   
 ## Description
+This API powers a social network web application that allows users to interact and engage with a digital community. Users can share their thoughts, react to their friends' posts, and manage their friend list. The API has been built with scalability and efficiency in mind, and it forms a solid foundation for any social media-based platform.
 
 ## Installation Instructions
 1.
